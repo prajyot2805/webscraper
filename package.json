@@ -1,0 +1,12 @@
+{
+  "name": "web-scraper-v1",
+  "version": "1.0.0",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
